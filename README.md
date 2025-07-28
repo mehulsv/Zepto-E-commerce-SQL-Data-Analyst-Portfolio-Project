@@ -121,14 +121,7 @@ Create a database and run the SQL file
 
 Import the dataset (convert to UTF-8 if necessary)
 
-Follow along with the YouTube video for full walkthrough. 👨‍💼
 
 📜 License
 MIT — feel free to fork, star, and use in your portfolio.
 
-
-Quick SQL tips, data memes, and behind-the-scenes content
-💼 LinkedIn: Amlan Mohanty
-
-Let’s connect professionally and grow your data career
-💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
