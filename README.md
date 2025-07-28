@@ -120,8 +120,3 @@ Load the dataset into pgAdmin or any other PostgreSQL client
 Create a database and run the SQL file
 
 Import the dataset (convert to UTF-8 if necessary)
-
-
-📜 License
-MIT — feel free to fork, star, and use in your portfolio.
-
